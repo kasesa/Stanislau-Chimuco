@@ -69,7 +69,7 @@ I combine:
 ## 📌 Strategic Repositories
 
 ### 🔬 Tabular SSL Benchmark  
-📍 https://github.com/your-username/tabular-ssl-benchmark  
+📍 https://github.com/kasesa/tabular-ssl-benchmark  
 
 - Benchmarks SSL methods on tabular datasets (OpenML)  
 - Implements: FT-Transformer, TabNet, MLP baselines  
@@ -83,7 +83,7 @@ I combine:
 ---
 
 ### 🧠 LLM Distillation for Tabular Learning  
-📍 https://github.com/your-username/llm-tabular-distillation  
+📍 https://github.com/kasesa/llm-tabular-distillation  
 
 - Transfers reasoning patterns from LLMs to tabular models  
 - Hybrid pipeline: LLM → pseudo-labeling → student model  
@@ -96,7 +96,7 @@ I combine:
 ---
 
 ### 🏛️ Church Management System (Clean Architecture)  
-📍 https://github.com/your-username/church-management-system  
+📍 https://github.com/kasesa/church-management-system  
 
 - Full-stack system for member, finance, and event management  
 - Built with **ASP.NET + SQL Server + Clean Architecture**
@@ -109,7 +109,7 @@ I combine:
 ---
 
 ### 📊 Financial Intelligence Backend  
-📍 https://github.com/your-username/financial-intelligence-system  
+📍 https://github.com/kasesa/financial-intelligence-system  
 
 - Backend system for financial data processing and reporting  
 - Focus on **data consistency, performance, and insights**
@@ -124,12 +124,12 @@ I combine:
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kasesa&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasesa&layout=compact&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=kasesa&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -155,7 +155,7 @@ I aim to become a **research-driven AI engineer**, contributing to:
   <a href="https://www.linkedin.com/in/stanislau-chimuco" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  <a href="https://instagram.com/yourprofile" target="_blank">
+  <a href="https://instagram.com/schimuco" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>

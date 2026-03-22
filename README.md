@@ -149,24 +149,15 @@ I aim to become a **research-driven AI engineer**, contributing to:
 ## 📫 Connect With Me
 
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+ <a href="mailto:schimuco@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://www.linkedin.com/in/stanislau-chimuco" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
   <a href="https://instagram.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.twitch.tv/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-  <a href="https://discord.gg/yourserver" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a> 
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
 </div>
 
 ---

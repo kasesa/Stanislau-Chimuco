@@ -1,6 +1,6 @@
 # # 👋 Hi, I'm Stanislau M. M. Chimuco
 
-### 🧠 AI Researcher in Progress | Software Engineer | Systems Thinker
+### 🧠 AI Researcher in Progress |Data Scientist | Software Engineer | Systems Thinker
 
 ---
 
